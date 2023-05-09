@@ -1,5 +1,5 @@
 # Вывод информации о версии ОС
-'''powershell
+```powershell
 madmin@madmin-VirtualBox:~$ uname
 Linux
 madmin@madmin-VirtualBox:~$ hostnamectl
@@ -33,9 +33,9 @@ SUPPORT_URL="https://help.ubuntu.com/"
 BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
 PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
 UBUNTU_CODENAME=jammy
-'''
+```
 # Установка Midnight Commander
-'''powershell
+```powershell
 madmin@madmin-VirtualBox:~$ sudo apt install mc
 Reading package lists... Done
 Building dependency tree... Done
@@ -61,4 +61,4 @@ Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
 Processing triggers for desktop-file-utils (0.26-1ubuntu3) ...
 Processing triggers for gnome-menus (3.36.0-1ubuntu3) ...
 madmin@madmin-VirtualBox:~$ mc
-'''
+```
